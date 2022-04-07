@@ -7,6 +7,13 @@
     "steps": [
     ],
   },
+  "intro": {
+      "text": "intro.md",
+      "code": "foreground.sh"
+   },
+  "finish": {
+      "text": "finish.md"
+   }
   "environment": {
     "uilayout": "terminal"
   },
