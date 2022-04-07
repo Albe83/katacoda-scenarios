@@ -1,0 +1,16 @@
+{
+  "title": "New Scenario Template",
+  "description": "A simple scenario example.",
+  "difficulty": "Beginner",
+  "time": "3 minutes",
+  "details": {
+    "steps": [
+    ],
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu:2004"
+  }
+}
